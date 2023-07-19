@@ -1,5 +1,8 @@
-# Todo-List-App
-# To-Do List Web Application
+# Todo List App
+<h3>visit: https://aokmen.github.io/Todo-List-App</h3>
+<img alt="alt_text" src="./task.gif"/>
+
+## Description:
 
 This project is a web application that allows users to manage their to-do lists. Users can add, complete, and remove tasks using a simple and visually appealing interface.
 
