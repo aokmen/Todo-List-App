@@ -1,6 +1,6 @@
 # Todo List App
 <h3>visit: https://aokmen.github.io/Todo-List-App</h3>
-<img alt="alt_text" src="./task.gif"/>
+<div align="center"> <img alt="alt_text" src="./task.gif"/> </div>
 
 ## Description:
 
